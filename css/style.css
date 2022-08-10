@@ -1,0 +1,165 @@
+/* common starts */
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #898989;
+}
+/* common ends */
+
+/* header started */
+header{
+    background-color: #fcdb00;
+    padding: 30px;
+}
+.c_nav{
+  
+}
+.logo{
+ width: 200px;
+}
+.menu{
+
+}
+.menu ul li a{
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    padding: 0 30px !important;
+}
+.menu ul li a:hover{
+    color: #ffffff !important;
+
+}
+/* header finished */
+
+/* slider started */
+.slider{
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+/* bottom dot area started */
+.c_ind{
+    bottom:-80px;
+}
+.c_ind [data-bs-target]{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+/* bottom dot area finished */
+.s_text{
+    margin-top: 60px;
+}
+
+.s_text h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101 !important;
+}
+
+.s_text h2{
+    margin: 20px 0;
+    font-size: 20px;
+    color: #313841;
+}
+
+.s_text p{
+    margin-bottom: 40px;
+    color: #555555 !important;
+    
+}
+
+.s_icon{}
+
+.s_icon ul li i{
+    margin-right: 30px;
+    font-size: 42px;
+    color: #010101;
+}
+.s_icon ul li i:hover{
+    transition: 0.5s;
+    transform: scale(0.8);
+
+}
+/* slider finished */
+
+/* features area started */
+.features{
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+.c_title{
+   
+
+}
+.c_title h2{
+margin-bottom: 15px !important;
+font-size: 32px;
+font-weight: 700;
+color: #010101;
+}
+.c_title p{
+    font-size: 20px;
+    color: #313841;
+    margin-bottom: 0;
+    line-height: 28px;
+
+}
+/* icon area  */
+.fit{
+    padding: 60px 0;
+}
+.f_icon i{
+    font-size: 50px !important;
+    color: #010101;
+}
+.f_text h3{
+    margin-bottom: 15px;;
+    font-size: 22px;
+    color: #010101;
+}
+.f_text h4{}
+/* features area finished */
+
+/* contact area started  */
+.contact{
+    padding-top: 80px;
+    padding-bottom: 100px;
+    background-color: #010101;
+}
+.c_area h2{
+color: #fcdb00;
+}
+.c_area p{
+    color: #898989;
+}
+
+.s_btn{
+    padding: 40px 0;
+}
+.c_btn{
+    background-color: #fcdb00;
+    color: #898989;
+}
+.social{
+    font-size: 50px;
+    color: #fcdb00;
+}
+.social ul li i{
+    margin-right: 30px;
+}
+/* contact area finished */
+
+/* footer area started  */
+.footer{
+    padding-top: 30px;
+    padding-bottom: 150px;
+    background-color: #010101;
+}
+.f_text ul li{
+    list-style: none;
+    color: #ffffff;
+}
+/* footer area started  */
